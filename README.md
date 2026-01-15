@@ -1,2 +1,6 @@
-# challenge-currency-converter-java
-Conversor de moedas em Java com consumo de API, desenvolvido como challenge da Alura.
+# Conversor de Moedas em Java
+
+> Projeto desenvolvido com fins educacionais, como parte de um challenge da Alura.
+
+Em desenvolvimento.
+
